@@ -1,0 +1,5 @@
+# ignore all files .рус
+*.рус
+
+# ignore all files cache
+cache/
